@@ -2,6 +2,16 @@
 layout: default
 ---
 
-# Greg Carr
+# My Games
 
-**[My Games](./games)** · **[My Recipes](./recipes)**
+| ⛷️ Free2Ski | [play](./free2ski){:target="_blank"} | [repo](https://github.com/greghcarr/free2ski){:target="_blank"} |
+| 🍉 FruitJump | [play](./fruitjump-pixijs){:target="_blank"} | [repo](https://github.com/greghcarr/fruitjump-pixijs){:target="_blank"} |
+| 🏝️ Weird Island Generator | [play](./weird-island-generator-pixijs){:target="_blank"} | [repo](https://github.com/greghcarr/weird-island-generator-pixijs){:target="_blank"} |
+| 👾 Space Invaders Pygame | ~~play~~ | [repo](https://github.com/greghcarr/space-invaders-pygame){:target="_blank"} |
+
+# My Recipes
+
+| 🥖 Baguette | [Richard Bertinet](./recipes/baguette-richard-bertinet) |
+| 🍞 Ciabatta | [Emma Fontanella](./recipes/ciabatta-emma-fontanella) |
+| 🫓 Focaccia | [Emma Fontanella](./recipes/focaccia-emma-fontanella) |
+| 🫓 Naan | [King Arthur Baking](./recipes/naan-king-arthur) |
