@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Music, games, cooking. Fairfax, VA.
 ---
 
 # Games
