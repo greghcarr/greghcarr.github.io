@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## My Games
+# My Games
 
 | ⛷️ Free2Ski | [play](./free2ski) | [repo](https://github.com/greghcarr/free2ski) |
 | 🍉 FruitJump | [play](./fruitjump-pixijs) | [repo](https://github.com/greghcarr/fruitjump-pixijs) |
