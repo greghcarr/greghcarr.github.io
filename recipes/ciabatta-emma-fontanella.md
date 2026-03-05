@@ -81,4 +81,4 @@ Slide one sheet of parchment (2 loaves) onto the hot pizza stone. Quickly throw 
 
 ---
 
-[← Recipes](.)
+[← Recipes](/recipes)

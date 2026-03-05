@@ -84,4 +84,4 @@ Well-wrapped at room temperature for 2 days. Freeze for longer storage.
 
 ---
 
-[← Recipes](.)
+[← Recipes](/recipes)

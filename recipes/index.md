@@ -11,4 +11,4 @@ layout: default
 
 ---
 
-[← Home](..)
+[← Home](/)
