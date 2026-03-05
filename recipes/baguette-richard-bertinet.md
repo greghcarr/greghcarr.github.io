@@ -82,4 +82,4 @@ Transfer to a wire rack. As they cool, the crusts will crackle — that's the so
 
 ---
 
-[← Recipes](/recipes)
+[← Home](/)

@@ -76,4 +76,4 @@ Rest in the pan for at least **10–15 minutes** before slicing. Serve warm or a
 
 ---
 
-[← Recipes](/recipes)
+[← Home](/)
