@@ -4,6 +4,8 @@ title: Home
 description: Music, games, cooking. Fairfax, VA.
 ---
 
+<style>h1 { border-bottom: 1px solid #ccc; padding-bottom: 0.2em; }</style>
+
 # Games
 
 | [⛷️ Free2Ski](./free2ski){:target="_blank"} | [repo](https://github.com/greghcarr/free2ski){:target="_blank"} |
