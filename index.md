@@ -13,10 +13,12 @@ description: Music, games, cooking. Fairfax, VA.
 
 # Recipes
 
-| [🥖 Baguette](./recipes/baguette-richard-bertinet) |
-| [🍞 Ciabatta](./recipes/ciabatta-emma-fontanella) |
-| [🫓 Focaccia](./recipes/focaccia-emma-fontanella) |
-| [🫓 Naan](./recipes/naan-king-arthur) |
+## Bread
+
+- [🥖 Baguette](./recipes/baguette-richard-bertinet)
+- [🍞 Ciabatta](./recipes/ciabatta-emma-fontanella)
+- [🫓 Focaccia](./recipes/focaccia-emma-fontanella)
+- [🫓 Naan](./recipes/naan-king-arthur)
 
 # Music
 
