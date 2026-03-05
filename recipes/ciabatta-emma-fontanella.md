@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # No-Knead Ciabatta
 
 *Recipe by Emma Fontanella — [emmafontanella.com](https://www.emmafontanella.com/easy-no-knead-ciabatta-bread)*

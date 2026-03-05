@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Naan
 
 *Recipe by Pooja Makhijani, via King Arthur Baking — [kingarthurbaking.com](https://www.kingarthurbaking.com/recipes/naan-recipe)*
@@ -10,7 +14,7 @@
 
 - **Prep time:** 30 minutes
 - **Rise time:** 50–60 minutes + 20 minutes rest
-- **Cook time:** 12–15 minutes total
+- **Cook time:** 15–20 minutes total (cooking 8 naans in batches)
 - **Yield:** 8 flatbreads
 
 ---

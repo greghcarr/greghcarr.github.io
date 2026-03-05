@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # French Baguettes
 
 *Recipe by Richard Bertinet, via Gozney — [gozney.com](https://www.gozney.com/blogs/recipes/french-baguettes-recipe)*

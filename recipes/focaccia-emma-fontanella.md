@@ -1,68 +1,78 @@
+---
+layout: default
+---
+
 # No-Knead Focaccia
 
 *Recipe by Emma Fontanella — [emmafontanella.com](https://www.emmafontanella.com/no-knead-focaccia)*
 
-*Soft, pillowy, and incredibly easy — no stand mixer required.*
+*Big bubbles, crispy crust, pillowy inside — no stand mixer required.*
 
 ---
 
 ## Details
 
-- **Prep time:** 15 minutes  
-- **Rise time:** 12–24 hours (cold ferment) + 2 hours (room temp)  
-- **Bake time:** 25–30 minutes  
-- **Serves:** 8–12  
-- **Pan size:** 9×13 inch (23×33 cm)
+- **Prep time:** 15 minutes (active), plus 4 × 30-minute rest intervals
+- **Rise time:** Overnight cold ferment + 1–2 hours final proof
+- **Bake time:** 20–25 minutes
+- **Serves:** 8–12
+- **Pan size:** 9×13 inch (at least 2 inches deep)
 
 ---
 
 ## Ingredients
 
 ### Dough
-- 500g (4 cups) all-purpose flour
-- 7g (2¼ tsp) instant yeast
-- 10g (2 tsp) salt
-- 375ml (1½ cups) warm water
-- 2 tbsp olive oil
+- 560g (4 cups) bread flour or Italian 00 flour, 12% protein
+- 470g (2 cups) lukewarm water (80–100°F / 27–37°C)
+- 11g (2 tsp) salt
+- 7g dried yeast (active or instant)
+- 1 tbsp extra virgin olive oil
 
 ### For the Pan & Topping
-- 4 tbsp olive oil (divided — 2 tbsp for pan, 2 tbsp for top)
+- 3–4 tbsp olive oil (for the pan)
+- 2 tbsp olive oil (for drizzling over dough)
+- Fresh rosemary
+- Olives
 - Flaky sea salt
-- Fresh rosemary (optional)
 
 ---
 
 ## Instructions
 
-### 1. Make the Dough
-Mix flour, yeast, and salt in a large bowl. Add warm water and 2 tbsp olive oil. Stir with a fork or your hands until a shaggy dough forms — it will be sticky and rough. That's fine.
+### 1. Mix the Dough
+In a large bowl, whisk together the water, salt, olive oil, and yeast. Add the flour and mix with a large spoon or spatula until well combined and hydrated. Scrape down the sides, cover, and rest for **30 minutes**.
 
-### 2. Cold Ferment (Overnight)
-Cover the bowl tightly with plastic wrap. Refrigerate for **12 to 24 hours**. The dough will rise slowly and develop flavor.
+### 2. Stretch and Fold (4 rounds)
+Perform a round of stretch-and-folds: take one side of the dough, stretch it up and fold it to the opposite side. Rotate the bowl a quarter turn and repeat 3 more times (4 folds per round). Cover and rest **30 minutes**. Repeat this process **3 more times** (4 rounds total, 2 hours total).
 
-### 3. Prepare the Pan
-Generously coat a 9×13 inch baking pan with 2 tbsp of olive oil.
+### 3. Cold Ferment (Overnight)
+After the final fold, cover tightly with plastic wrap and refrigerate **overnight**, or up to 48 hours.
 
-### 4. Transfer & Second Rise
-Scrape the cold dough into the oiled pan. Gently stretch it toward the edges (it may not reach — that's okay). Drizzle the remaining 2 tbsp of olive oil over the top. Cover loosely and let rise at room temperature for **2 hours**.
+### 4. Prepare the Pan
+Pour 3–4 tbsp of olive oil into a 9×13 inch pan and grease it well. If the pan is not non-stick, line the bottom with parchment paper first.
 
-### 5. Dimple & Top
-Preheat your oven to **230°C / 450°F**. With oiled fingers, press deep dimples all over the dough, pushing all the way to the bottom of the pan. The dough should now fill the pan. Sprinkle generously with flaky salt and rosemary if using.
+### 5. Final Stretch and Transfer
+Perform one last round of stretch-and-folds, then gently place the dough into the oiled pan. Drizzle with more olive oil, cover well, and let proof at room temperature for **2 hours** (the dough needs extra time to warm up after the cold ferment).
 
-### 6. Bake
-Bake for **25–30 minutes**, until deep golden brown on top and the edges are crispy. The bottom should also be golden — check by lifting a corner with a spatula.
+### 6. Dimple & Top
+Drizzle the dough with more olive oil. With oiled hands, gently press deep dimples all over the dough and jiggle the pan to spread it out. Add toppings of your choice, making sure they are oiled to prevent burning.
 
-### 7. Cool & Serve
-Let cool in the pan for at least **10 minutes** before slicing. Best eaten warm the day it's made, but keeps well for 1–2 days wrapped at room temperature.
+### 7. Bake
+Preheat oven to **200°C / 400°F** with fan on (if available). Bake for **20–25 minutes**, until the top is golden and crispy.
+
+### 8. Cool & Serve
+Rest in the pan for at least **10–15 minutes** before slicing. Serve warm or at room temperature.
 
 ---
 
 ## Tips
 
-- **Don't skip the cold ferment.** It's what gives the focaccia its depth of flavor and airy texture.
-- **Be generous with the oil.** Olive oil is what makes focaccia focaccia. Don't hold back.
-- **Press the dimples deep.** They pool with oil and create the signature crispy-soft texture.
-- **Toppings:** Try olives, thinly sliced onion, cherry tomatoes, or just salt and herbs.
+- **Don't skip the cold ferment.** It develops gluten, flavor, and those signature big bubbles.
+- **Be generous with the oil.** Olive oil is what makes focaccia focaccia — don't hold back on the pan or the drizzle.
+- **Press the dimples deep.** They pool with oil and create the crispy-soft texture.
+- **Flour matters.** If your dough seems dry, add more water — different flours absorb water differently.
+- **Toppings:** Try cherry tomatoes, thinly sliced onion, garlic, or cheese alongside the classics.
 
 ---
 
