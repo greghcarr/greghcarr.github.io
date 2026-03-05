@@ -11,7 +11,7 @@ layout: default
 
 # Recipes
 
-| 🥖 Baguette | [Richard Bertinet](./recipes/baguette-richard-bertinet) |
-| 🍞 Ciabatta | [Emma Fontanella](./recipes/ciabatta-emma-fontanella) |
-| 🫓 Focaccia | [Emma Fontanella](./recipes/focaccia-emma-fontanella) |
-| 🫓 Naan | [King Arthur Baking](./recipes/naan-king-arthur) |
+| 🥖 [Baguette](./recipes/baguette-richard-bertinet) |
+| 🍞 [Ciabatta](./recipes/ciabatta-emma-fontanella) |
+| 🫓 [Focaccia](./recipes/focaccia-emma-fontanella) |
+| 🫓 [Naan](./recipes/naan-king-arthur) |
