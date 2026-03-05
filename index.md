@@ -4,7 +4,7 @@ title: Home
 description: Music, games, cooking. Fairfax, VA.
 ---
 
-<style>h1 { border-bottom: 1px solid #ccc; padding-bottom: 0.2em; }</style>
+<style>h1 { border-bottom: 1px solid #ccc; padding-bottom: 0.2em; width: fit-content; }</style>
 
 # Games
 
