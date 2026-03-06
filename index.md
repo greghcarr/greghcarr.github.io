@@ -22,6 +22,10 @@ description: Music, games, cooking. Fairfax, VA.
 | [🫓 Focaccia](./recipes/focaccia-emma-fontanella) |
 | [🫓 Naan](./recipes/naan-king-arthur) |
 
+# Cats
+
+[Photos of my cats](./cats)
+
 # Music
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/foxwhelp&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe>
