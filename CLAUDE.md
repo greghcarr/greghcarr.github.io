@@ -26,6 +26,10 @@ bundle exec jekyll serve
 - `assets/images/` — Logo, favicons, and cat photos
 - `export_cats_photos.sh` — Script to export cat photos from Apple Photos (git-ignored)
 
+## External Dependencies
+
+- **Resume** — linked via Google Docs preview (`docs.google.com/document/d/1pIQPG5e1VB5pgUajiucgQq12x4w_YK2B/preview`). The filename and content of this Google Doc are public-facing. Sharing must stay set to "anyone with the link can view."
+
 ## Conventions
 
 - Content is markdown with Liquid templating — no custom Jekyll plugins.
