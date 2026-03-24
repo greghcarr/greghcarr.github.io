@@ -13,7 +13,7 @@ Hey - I'm Greg. I like making things, whether that's software, food, or somethin
 
 Things I've built for fun, mostly browser games.
 
-| [♟️ chess2D](./chess2d){:target="_blank"} | 2D chess in Phaser | [repo](https://github.com/greghcarr/chess2d){:target="_blank"} |
+| [♟️ chess2D](./chess2d){:target="_blank"} | 2D chess MMO in Phaser | [repo](https://github.com/greghcarr/chess2d){:target="_blank"} |
 | [⛷️ free2ski](./free2ski){:target="_blank"} | Ski downhill, dodge trees | [repo](https://github.com/greghcarr/free2ski){:target="_blank"} |
 | [🍉 FruitJump](./fruitjump-pixijs){:target="_blank"} | Platformer in PixiJS | [repo](https://github.com/greghcarr/fruitjump-pixijs){:target="_blank"} |
 | [🏝️ Weird Island Generator](./weird-island-generator-pixijs){:target="_blank"} | Procedural islands in PixiJS | [repo](https://github.com/greghcarr/weird-island-generator-pixijs){:target="_blank"} |
