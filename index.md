@@ -5,9 +5,9 @@ title: Home
 
 <style>h1 { border-bottom: 1px solid #ccc; padding-bottom: 0.2em; width: fit-content; }</style>
 
-Hey — I'm Greg. I like making things, whether that's software, food, or something in between. Based in Fairfax, VA.
+Hey - I'm Greg. I like making things, whether that's software, food, or something in between. Based in Fairfax, VA.
 
-[GitHub](https://github.com/greghcarr){:target="_blank"} · [greghcarr@gmail.com](mailto:greghcarr@gmail.com)
+[GitHub](https://github.com/greghcarr){:target="_blank"} · [Resume](https://docs.google.com/document/d/1pIQPG5e1VB5pgUajiucgQq12x4w_YK2B/preview){:target="_blank"} · [greghcarr@gmail.com](mailto:greghcarr@gmail.com)
 
 # Projects
 
