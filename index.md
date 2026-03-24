@@ -19,7 +19,7 @@ Things I've built for fun, mostly browser games.
 | [🏝️ Weird Island Generator](./weird-island-generator-pixijs){:target="_blank"} | Procedural islands in PixiJS | [repo](https://github.com/greghcarr/weird-island-generator-pixijs){:target="_blank"} |
 | 👾 Space Invaders Pygame | Classic arcade in Python | [repo](https://github.com/greghcarr/space-invaders-pygame){:target="_blank"} |
 
-# Recipes
+# Other Stuff
 
 ## Bread
 
@@ -28,10 +28,10 @@ Things I've built for fun, mostly browser games.
 | [🫓 Focaccia](./recipes/focaccia-emma-fontanella) |
 | [🫓 Naan](./recipes/naan-king-arthur) |
 
-# Cats
+## Cats
 
 [Photos of my cats](./cats)
 
-# Music
+## Music
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/foxwhelp&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe>
