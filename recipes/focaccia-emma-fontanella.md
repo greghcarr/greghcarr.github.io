@@ -65,7 +65,7 @@ Use wet hands to press in different places on top of the center of the dough, at
 Cover well, and let the dough proof at room temperature for **2 hours** (the dough needs extra time to warm up after the cold ferment).
 
 ### 6. Dimple & Top
-Drizzle the dough with 1 more tbsp of olive oil. With oiled hands, gently press deep dimples (all the way to the bottom) all over the dough and jiggle the pan to spread it out. 
+Drizzle the dough with 1 more tbsp of olive oil. With oiled hands, gently press many deep dimples (all the way to the bottom) all over the dough, and at the tail end of this process, jiggle your fingers in the dough to make the finger holes wider. 
 At this point you can choose to add toppings of your choice, making sure they are oiled to prevent burning.
 
 ### 7. Bake (28 minutes)
