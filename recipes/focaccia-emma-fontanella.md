@@ -4,7 +4,7 @@ layout: default
 
 # No-Knead Focaccia
 
-*Based on Emma Fontanella's recipe — [emmafontanella.com](https://www.emmafontanella.com/no-knead-focaccia)*
+*Based on Emma Fontanella's recipe - [emmafontanella.com](https://www.emmafontanella.com/no-knead-focaccia)*
 
 *Pizza bread. Will showcase the flavor of your favorite olive oil.*
 
@@ -19,7 +19,7 @@ layout: default
 - **Prep time:** 15 minutes (active), plus 4 × 30-minute rest intervals
 - **Rise time:** Overnight cold ferment + 2 hours final proof
 - **Bake time:** 28 minutes
-- **Serves:** 8–12
+- **Serves:** 8-12
 - **Pan size:** 9×13 inch (at least 2 inches deep)
 
 ---
@@ -60,8 +60,7 @@ After the final fold, cover tightly and refrigerate **overnight**, or up to 48 h
 If your 9x13 inch pan is not non-stick, line the bottom with parchment paper first. Pour 2 tbsp of olive oil into the center area of the pan. 
 
 ### 5. Final Stretch and Transfer (2 hours)
-Perform one last round of stretch-and-folds, then gently place the dough into the center of the oiled pan. Drizzle with 1 tbsp olive oil. 
-Use wet hands to press in different places on top of the center of the dough, attempting to spread it out to fill the pan. Don't use too much abrupt force, but do press into it.
+Perform one last round of stretch-and-folds, then gently place the dough into the center of the oiled pan. Drizzle with 1 tbsp olive oil.
 Cover well, and let the dough proof at room temperature for **2 hours** (the dough needs extra time to warm up after the cold ferment).
 
 ### 6. Dimple & Top
