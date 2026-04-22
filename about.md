@@ -11,6 +11,6 @@ I grew up programming computers - I loved it. I went to UVA, interned at Raytheo
 
 After leaving the winery, I spent two years making music full-time — writing, producing, mixing, and releasing it.
 
-Recently I've been coming back to where I started. I've been learning Python and TypeScript, building browser games, and working as a dev intern at an early-stage DC startup, [Heard](https://heard.vote){:target="_blank"}.
+Recently I've been coming back to where I started. I've been learning Python and TypeScript, building browser games and desktop apps, and working as a dev intern at an early-stage DC startup, [Heard](https://heard.vote){:target="_blank"}.
 
 Outside of work, I bake a lot of bread, take photos of my cats, and make music as [Foxwhelp](https://soundcloud.com/foxwhelp){:target="_blank"}.
