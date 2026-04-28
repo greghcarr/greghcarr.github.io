@@ -10,7 +10,7 @@ layout: default
 
 *Note: I have adjusted the recipe according to my tastes and equipment.*
 
-*In any baking recipe. including this one, I suggest you measure by weight and not by volume. Your results will be more consistent as a result.*
+*In any baking recipe. including this one, I suggest you measure by weight and not by volume. You'll get more consistent results.*
 
 ---
 
