@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# No-Knead Focaccia
+# Focaccia Bread
 
-*Based on Emma Fontanella's recipe - [emmafontanella.com](https://www.emmafontanella.com/no-knead-focaccia)*
+*Based on [Emma Fontanella's recipe](https://www.emmafontanella.com/no-knead-focaccia)*
 
 *Pizza bread. Will showcase the flavor of your favorite olive oil.*
 
@@ -28,7 +28,7 @@ layout: default
 
 ### Dough
 - 560g (4 cups) bread flour (I use King Arthur Flour)
-- 470g (2 cups) lukewarm water (80–100°F / 27–37°C)
+- 470g (2 cups) lukewarm water (80-100°F / 27-37°C)
 - 11g (2 tsp) salt
 - 7g dried yeast (active or instant)
 - 12g (1 tbsp) extra virgin olive oil
@@ -73,7 +73,7 @@ Bake for **28 minutes**, until the top is golden and crispy.
 *(Note: In Emma's recipe, she uses a convection oven with the fan on at 400°F for 20-25 minutes. I do not have a convection oven.)*
 
 ### 8. Cool & Serve
-Rest in the pan for at least **10–15 minutes** before slicing. Serve warm or at room temperature.
+Rest in the pan for at least **10-15 minutes** before slicing. Serve warm or at room temperature.
 Experiment with different slicings! Thick "blocks," or thinner slices.
 
 ---

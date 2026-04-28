@@ -13,7 +13,7 @@ Hey - I'm Greg. I like making things, whether that's software, food, or somethin
 
 Things I've built for fun, mostly browser games and desktop apps.
 
-| 🦊 FoxPlayer | macOS music player | [repo](https://github.com/greghcarr/foxplayer){:target="_blank"} |
+| 🎶 FoxPlayer | macOS music player | [repo](https://github.com/greghcarr/foxplayer){:target="_blank"} |
 | [⛷️ free2ski](./free2ski){:target="_blank"} | Ski downhill, dodge trees | [repo](https://github.com/greghcarr/free2ski){:target="_blank"} |
 | ♟️ chess2D | 2D chess MMO in Phaser | [repo](https://github.com/greghcarr/chess2d){:target="_blank"} |
 | [🍉 FruitJump](./fruitjump-pixijs){:target="_blank"} | Platformer in PixiJS | [repo](https://github.com/greghcarr/fruitjump-pixijs){:target="_blank"} |
@@ -26,8 +26,8 @@ Things I've built for fun, mostly browser games and desktop apps.
 
 | [🥖 Baguette](./recipes/baguette-richard-bertinet) |
 | [🍞 Ciabatta](./recipes/ciabatta-emma-fontanella) |
-| [🫓 Focaccia](./recipes/focaccia-emma-fontanella) |
-| [🫓 Naan](./recipes/naan-king-arthur) |
+| [🍞 Focaccia](./recipes/focaccia-emma-fontanella) |
+| [🫓 Flatbread](./recipes/naan-king-arthur) |
 
 ## Cats
 

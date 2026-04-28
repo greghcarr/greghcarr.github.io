@@ -4,18 +4,20 @@ layout: default
 
 # French Baguettes
 
-*Recipe by Richard Bertinet, via Gozney — [gozney.com](https://www.gozney.com/blogs/recipes/french-baguettes-recipe)*
+*Based on [a recipe by Richard Bertinet, via Gozney](https://www.gozney.com/blogs/recipes/french-baguettes-recipe)*
 
 *A proper boulangerie baguette: crisp, crackly crust and an open, airy crumb. The overnight cold ferment is the secret.*
+
+*In any baking recipe. including this one, I suggest you measure by weight and not by volume. Your results will be more consistent as a result.*
 
 ---
 
 ## Details
 
 - **Prep time:** 20 minutes (active)
-- **Rise time:** 1 hour + overnight cold ferment + 45–60 minutes final proof
-- **Bake time:** 12–15 minutes
-- **Yield:** 4–5 small baguettes
+- **Rise time:** 1 hour + overnight cold ferment + 45-60 minutes final proof
+- **Bake time:** 12-15 minutes
+- **Yield:** 4-5 small baguettes
 
 ---
 
@@ -34,7 +36,7 @@ layout: default
 
 - 1000g (about 8 cups) strong bread flour
 - 700g (3 cups) water
-- 20g (4 tsp) fresh yeast — or 10g (2 tsp) dried
+- 20g (4 tsp) fresh yeast, or 10g (2 tsp) dried
 - 20g (1 tbsp + 1 tsp) sea salt
 
 ---
@@ -57,28 +59,28 @@ The next day, turn the cold dough out onto a floured surface. Using a bench scra
 Take one ball, turn it rounded-side down, and flatten gently with the heel of your hand into an oval. Fold one long edge into the centre and press to seal. Fold in half lengthways and seal the seam firmly with the heel of your hand. Roll gently to extend to the length of your tray, keeping even pressure.
 
 ### 6. Final Proof
-Lay the shaped baguettes onto a well-floured couche or tea towels, making a pleat of fabric between each to keep them separated. Cover and proof for **45–60 minutes**, until roughly doubled in volume.
+Lay the shaped baguettes onto a well-floured couche or tea towels, making a pleat of fabric between each to keep them separated. Cover and proof for **45-60 minutes**, until roughly doubled in volume.
 
 ### 7. Preheat the Oven
-Place a baking stone or heavy tray on the middle rack and an empty roasting tray on the bottom rack. Preheat to **240°C / 464°F** for at least 30 minutes.
+Place a baking stone or heavy tray on the middle rack and an empty roasting tray on the bottom rack. Preheat to **240°C / 464°F** for at least **30 minutes**.
 
 ### 8. Score and Bake
-Carefully transfer the baguettes to a floured peel or the back of a flat tray. Using a lame or sharp blade, make **3 diagonal cuts** at a shallow angle — cut cleanly in a single motion without dragging. Pour a cup of hot water into the empty roasting tray at the bottom of the oven to create steam, then slide the baguettes onto the hot stone. **Do not open the oven for the first 4–5 minutes.** Bake for **12–15 minutes** until deep golden brown.
+Carefully transfer the baguettes to a floured peel or the back of a flat tray. Using a lame or sharp blade, make **3 diagonal cuts** at a shallow angle. Cut cleanly in a single motion without dragging. Pour a cup of hot water into the empty roasting tray at the bottom of the oven to create steam, then slide the baguettes onto the hot stone. **Do not open the oven for the first 4-5 minutes.** Bake for **12-15 minutes** until deep golden brown.
 
 *(Note: The original recipe was written for a Gozney wood-fired dome oven using a steam injector. Steps 7 and 8 have been adapted for a standard home oven, substituting a baking stone and a hot water tray for steam.)*
 
 ### 9. Cool
-Transfer to a wire rack. As they cool, the crusts will crackle — that's the sound of a good baguette.
+Transfer to a wire rack. As they cool, the crusts will crackle. That's the sound of a good baguette.
 
 ---
 
 ## Tips
 
-- **Cold dough is easier to shape.** Don't let it warm up too much before working with it.
-- **Scoring angle matters.** Hold the blade at a shallow 30–45° angle for the classic baguette ear. Straight-down cuts won't open properly.
-- **Steam is essential.** It keeps the crust from setting too early, allowing maximum oven spring and that characteristic crackle.
-- **Don't rush the final proof.** Underproofed baguettes won't open well when scored. Wait for a clear increase in volume.
-- **Listen to them.** A hollow tap on the bottom and audible crackling as they cool means you got it right.
+- Cold dough is easier to shape. Don't let it warm up too much before working with it.
+- Scoring angle matters. Hold the blade at a shallow 30-45° angle for the classic baguette ear. Straight-down cuts won't open properly.
+- Steam is essential. It keeps the crust from setting too early, allowing maximum oven spring and that characteristic crackle.
+- Don't rush the final proof. Underproofed baguettes won't open well when scored. Wait for a clear increase in volume.
+- A hollow tap on the bottom (of any bread, actually) will indicate that it's done.
 
 ---
 

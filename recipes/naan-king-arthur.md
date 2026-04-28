@@ -2,19 +2,23 @@
 layout: default
 ---
 
-# Naan
+# Flatbread
 
-*Based on a recipe by Pooja Makhijani, via King Arthur Baking — [kingarthurbaking.com](https://www.kingarthurbaking.com/recipes/naan-recipe)*
+*Based on [a naan recipe by Pooja Makhijani, via King Arthur Baking](https://www.kingarthurbaking.com/recipes/naan-recipe)*
 
-*Soft, chewy, slightly tangy flatbread cooked in a cast iron pan — no tandoor required.*
+*Soft, chewy, slightly tangy flatbread cooked in a cast iron pan, no tandoor required.*
+
+*Note: I have adjusted the recipe according to my tastes and equipment.*
+
+*In any baking recipe. including this one, I suggest you measure by weight and not by volume. Your results will be more consistent as a result.*
 
 ---
 
 ## Details
 
 - **Prep time:** 30 minutes
-- **Rise time:** 50–60 minutes + 20 minutes rest
-- **Cook time:** 15–20 minutes total (cooking 8 naans in batches)
+- **Rise time:** 50-60 minutes + 20 minutes rest
+- **Cook time:** 15-20 minutes total (cooking 8 naans in batches)
 - **Yield:** 8 flatbreads
 
 ---
@@ -38,30 +42,30 @@ layout: default
 
 ### 1. Make the Dough
 Sift the flour into a bowl. Set aside for now.
-If the butter is not melted yet, microwave it for 30 seconds to liquify it. Make sure it doesn't begin bubbling and boiling off.
-Combine the melted butter and warm water in a Pyrex (can be the same one from the previous step).
-Add the yeast, granulated sugar, and salt to the butter/water mixture and whisk until dissolved (or close to dissolved).
+If the butter is not melted yet, microwave it for **30 seconds** to liquify it. Make sure it doesn't begin bubbling and boiling off.
+Combine the melted butter and warm water in a Pyrex (can be the same one you used to microwave the butter.)
+Add the yeast, granulated sugar, and salt to the butter/water mixture and whisk until dissolved (or close to dissolved.)
 Add the Greek yogurt to the liquid mixture and whisk until combined.
-Pour the liquid ingredients into the flour bowl, and combine with a spoon or spatula. Your goal is to achieve a uniform dough, keep working the dough until you achieve it. 5 minutes of vigorous stirring should get you there.
+Pour the liquid ingredients into the flour bowl, and combine with a spoon or spatula. Your goal is to achieve a uniform dough, keep working the dough until you achieve it. A couple minutes of vigorous stirring should get you there.
 
 ### 2. First Rise
-Place dough in a greased bowl, cover, and let rise until doubled — about **50–60 minutes**.
+Place dough in a greased bowl, cover, and let rise until doubled, about **1 hour**.
 
 ### 3. Divide and Rest
 Divide dough into 8 equal pieces. Shape each into a ball, cover, and rest for **20 minutes**.
 
 ### 4. Preheat the Pan
-While the dough rests, preheat a cast iron pan over medium-high heat for 10-15 minutes. (On my stovetop, I use my most powerful burner at a setting of 4, and I don't need to touch the dial for the rest of the process, until turning it off.)
+While the dough rests, preheat a cast iron pan over medium-high heat for **10-15 minutes**. (On my stovetop, I use my most powerful burner at a setting of 4, and I don't need to touch the dial for the rest of the process, until turning it off.)
 
 ### 5. Shape
 On your countertop (not floured), hand-stretch a ball of dough into a 6" round or 7" oblong for thicker naan, or 8"/10" for thinner. Keep remaining pieces covered.
 Note: This is perhaps the most difficult part of the recipe. Each time you stretch a ball of dough, take note of when it gets very thin and rips, because you are trying to avoid this. The key is to maintain a constant thickness as you stretch.
 
 ### 6. Cook
-Cook one naan at a time. Place in the hot pan and cook **30–40 seconds**, until bubbles form on top and the underside browns. Flip and cook another **40–50 seconds** until done.
+Cook one naan at a time. Place in the hot pan and cook **30-40 seconds**, until bubbles form on top and the underside browns. Flip and cook another **40-50 seconds** until done.
 
 ### 7. Finish and Serve
-Keep finished naan warm in a 200°F oven or wrapped in foil until serving.
+Keep finished naan warm in a **200°F** oven or wrapped in foil until serving.
 
 ---
 
@@ -72,16 +76,16 @@ Well-wrapped at room temperature for 2 days. Freeze for longer storage.
 
 ## Variation suggestions (From the original recipe)
 
-- **Garlic naan:** Mince 5–6 garlic cloves. Press into each rolled-out round before cooking.
-- **Stuffed naan:** Roll each ball into a 5" round, place 2 tbsp filling in the center (spiced mashed potato, grated cheese, or paneer work well), pinch edges together to seal, then roll out to 6"–8" before cooking.
+- **Garlic naan:** Mince 5-6 garlic cloves. Press into each rolled-out round before cooking.
+- **Stuffed naan:** Roll each ball into a 5" round, place 2 tbsp filling in the center (spiced mashed potato, grated cheese, or paneer work well), pinch edges together to seal, then roll out to 6"-8" before cooking.
 
 ---
 
 ## Tips
 
-- **Use your hands to shape, not a rolling pin.** A rolling pin pushes out the gas and leads to flat, dense naan.
-- **Bread flour is key.** It gives the naan its signature chew and makes the dough easier to stretch without tearing.
-- **Watch for bubbles.** That's your cue to flip — when small bubbles appear all over the surface, the first side is ready.
+- Use your hands to shape, not a rolling pin. A rolling pin pushes out the gas and leads to flat, dense naan.
+- Bread flour is key. It gives the naan its signature chew and makes the dough easier to stretch without tearing.
+- Watch for browning in the thinnest area of the flatbread, that's your cue to flip.
 
 ---
 
