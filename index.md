@@ -14,7 +14,7 @@ Hey - I'm Greg. I like making things, whether that's software, food, or somethin
 Things I've built for fun, mostly browser games and desktop apps.
 
 | 🎶 Stylus | macOS music player | [repo](https://github.com/greghcarr/stylus){:target="_blank"} |
-| 🎶 Stylus iOS | iOS music player | [repo](https://github.com/greghcarr/stylus-ios){:target="_blank"} |
+| 🎵 Stylus iOS | iOS music player | [repo](https://github.com/greghcarr/stylus-ios){:target="_blank"} |
 | [⛷️ free2ski](./free2ski){:target="_blank"} | Ski downhill, dodge trees | [repo](https://github.com/greghcarr/free2ski){:target="_blank"} |
 | ♟️ chess2D | 2D chess MMO in Phaser | [repo](https://github.com/greghcarr/chess2d){:target="_blank"} |
 | [🍉 FruitJump](./fruitjump-pixijs){:target="_blank"} | Platformer in PixiJS | [repo](https://github.com/greghcarr/fruitjump-pixijs){:target="_blank"} |
