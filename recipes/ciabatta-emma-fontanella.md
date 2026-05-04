@@ -37,10 +37,10 @@ layout: default
 
 ## Ingredients
 
+- 450g (3¼ cups) strong bread flour, ~13% protein, plus plenty extra for dusting
 - 400g (1⅔ cups) lukewarm water (80-100°F / 27-37°C)
 - 9g (1½ tsp) salt
 - 7g (2 tsp) dry yeast
-- 450g (3¼ cups) strong bread flour, ~13% protein, plus plenty extra for dusting
 
 ---
 
