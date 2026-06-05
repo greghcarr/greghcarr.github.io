@@ -16,7 +16,7 @@ Things I've built for fun, mostly browser games and desktop apps.
 | 🎶 Stylus | desktop music player | [repo](https://github.com/greghcarr/stylus){:target="_blank"} |
 | 🎵 Stylus iOS | iOS music player | [repo](https://github.com/greghcarr/stylus-ios){:target="_blank"} |
 | 🎲 dnd-srd-engine | D&D game engine | [repo](https://github.com/greghcarr/dnd-srd-engine){:target="_blank"} |
-| [⚔️ dnd-web](https://greghcarr.github.io/dnd-web/){:target="_blank"} | D&D web app | [repo](https://github.com/greghcarr/dnd-web){:target="_blank"} |
+| [⚔️ dnd-web](https://greghcarr.github.io/dnd-web/){:target="_blank"} | Prototype D&D combat in the browser | [repo](https://github.com/greghcarr/dnd-web){:target="_blank"} |
 | [📖 dndbnb](https://greghcarr.github.io/dndbnb/){:target="_blank"} | D&D Beyond alternative | [repo](https://github.com/greghcarr/dndbnb){:target="_blank"} |
 | [⛷️ free2ski](./free2ski){:target="_blank"} | Ski downhill, dodge trees | [repo](https://github.com/greghcarr/free2ski){:target="_blank"} |
 | ♟️ chess2D | 2D chess MMO in Phaser | [repo](https://github.com/greghcarr/chess2d){:target="_blank"} |
